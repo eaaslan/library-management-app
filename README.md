@@ -37,7 +37,7 @@ A robust ASP.NET Core MVC application for managing library resources, books, and
 ## Technical Details
 
 ### Built With
-- ASP.NET Core MVC (.NET 7.0)
+- ASP.NET Core MVC (.NET 8.0)
 - Entity Framework Core
 - PostgreSQL Database
 - Identity Framework for Authentication
@@ -74,14 +74,14 @@ A robust ASP.NET Core MVC application for managing library resources, books, and
 ## Getting Started
 
 ### Prerequisites
-- .NET 7.0 SDK
+- .NET 8.0 SDK
 - PostgreSQL
 - Visual Studio 2022 or VS Code
 
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/eaaslan/library-management-system.git
+git clone https://github.com/eaaslan/library-management-app.git
 ```
 
 2. Update the connection string in `appsettings.json`
